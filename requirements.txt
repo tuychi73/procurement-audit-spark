@@ -1,0 +1,6 @@
+pyspark==4.0.1
+pandas>=2.2
+pyarrow>=16
+numpy>=1.26
+scikit-learn>=1.5
+pytest>=8
